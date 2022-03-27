@@ -95,7 +95,7 @@ body h1{
     width: 20%;
 }
 .progress-line.C span{
-    width: 15%;
+    width: 70%;
 }
 .bar .progress-line span::before{
     position: absolute;
@@ -142,5 +142,5 @@ body h1{
     content: "20%";
 }
 .progress-line.C span::after{
-    content: "15%";
+    content: "70%";
 }
